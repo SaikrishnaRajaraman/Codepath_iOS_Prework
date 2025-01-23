@@ -2,7 +2,7 @@
 
 Submitted by: **Saikrishna Rajaraman**
 
-**Name of your app** is an app that... [TODO] 
+**Codepath Prework** is an app that lists down my Name, School and my aspiring job.
 
 Time spent: **2** hours spent in total
 
